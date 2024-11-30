@@ -1,0 +1,6 @@
+Yelp_JSON/
+
+*.log
+__pycache__/
+.DS_Store
+.vscode/
