@@ -142,4 +142,4 @@ os-sys==2.1.4
    - DBSCAN anomalies: `output/dbscan_anomalous_ids.csv`
    - Isolation Forest anomalies: `output/isolation_forest_anomalous_ids.csv`
 
-Feel free to explore the scripts and customize parameters for further experimentation. For detailed explanations of the algorithms and the project, refer to the [Documentation](./docs).
+Feel free to explore the scripts and customize parameters for further experimentation. For detailed explanations of the algorithms and the project, refer to the [Documentation](./docs.txt).
