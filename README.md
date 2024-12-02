@@ -1,5 +1,5 @@
 # Fraud Yelper
-## Fraud Anomaly Detection Using Unsupervised Learning
+## Fraud Anomaly Detection in Yelp Reviews Using Unsupervised Learning
 We propose a machine learning model that segregates businesses that have potentially used fraudulent reviews from legitimate businesses by purely looking at quantitative metrics.
 
 We propose that removing the human subjectivity from distinguishing between legitimate businesses and businesses that potentially use fraudulent reviews allows companies and review sites like Yelp to make somewhat objective decisions about potentially suspicious businesses and protect users or at least warn them of what they might expect.
