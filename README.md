@@ -4,6 +4,8 @@ We propose a machine learning model that segregates businesses that have potenti
 
 We propose that removing the human subjectivity from distinguishing between legitimate businesses and businesses that potentially use fraudulent reviews allows companies and review sites like Yelp to make somewhat objective decisions about potentially suspicious businesses and protect users or at least warn them of what they might expect.
 
+Contributors: Roshan Pathak, Ayushman Roy
+
 ## Table of Contents
 - [Setup Instructions](#setup-instructions)
 - [Dependency Installation](#dependency-installation)
